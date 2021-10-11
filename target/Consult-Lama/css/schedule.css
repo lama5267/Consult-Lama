@@ -1,0 +1,29 @@
+/*.schedule {*/
+/*    background-color: #4682B4;*/
+/*    width: 150px;*/
+/*    margin-bottom: 15px;*/
+/*    border-radius: 10px;*/
+/*    color: #171a1d;*/
+/*    text-align: left;*/
+/*    position: relative;*/
+/*    padding: 0 15px;*/
+/*}*/
+
+/*.schedule p {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*}*/
+
+.btn-edit {
+    background: url("../images/edit.png") center / cover no-repeat;
+    width: 25px;
+    height: 25px;
+    border: none;
+}
+
+.btn-del {
+    background: url("../images/delete.png") center / cover no-repeat;
+    width: 25px;
+    height: 25px;
+    border: none;
+}

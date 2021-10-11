@@ -1,0 +1,13 @@
+.btn-edit {
+    background: url("../images/edit.gif") center / cover no-repeat;
+    width: 90px;
+    height: 25px;
+    border: none;
+}
+
+.btn-del {
+    background: url("../images/del.png") center / cover no-repeat;
+    width: 25px;
+    height: 25px;
+    border: none;
+}
